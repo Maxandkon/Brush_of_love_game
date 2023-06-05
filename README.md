@@ -1,6 +1,8 @@
 # Brush_of_love_game
 The prototype game prepared for Mini Jame Gam #18
 
+https://maxandkon.itch.io/brush-of-love
+
 # Description:
 Help Brush reach his beloved Pencil in this exciting adventure!
 
